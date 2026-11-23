@@ -20,6 +20,16 @@ public class Movie {
     public Movie() {
     }
 
+    public Movie(int id, String title, String description, int year, String image_url, String[] genre, double stars) {
+        this.id = id;
+        this.title = title;
+        this.description = description;
+        this.year = year;
+        this.image_url = image_url;
+        this.genre = genre;
+        this.stars = stars;
+    }
+
     public int getId() {
         return id;
     }

@@ -1,0 +1,301 @@
+id,title,description,year,image_url,genre,stars
+1,The Shawshank Redemption,Un empleado de banca condenado a prisión entabla una amistad decisiva y busca recuperar su libertad.,1994,"https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",Drama,4.7
+2,The Godfather,El patriarca de una familia mafiosa prepara el relevo mientras sus herederos afrontan la violencia del crimen organizado.,1972,"https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg",Crime|Drama,4.6
+3,The Dark Knight,Batman se enfrenta al Joker mientras Gotham afronta una oleada de caos que pone a prueba sus principios.,2008,"https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",Action|Crime|Drama,4.5
+4,The Godfather: Part II,La juventud de Vito Corleone se entrelaza con las decisiones de Michael al frente del imperio familiar.,1974,"https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg",Crime|Drama,4.5
+5,12 Angry Men,Los miembros de un jurado debaten un veredicto aparentemente sencillo que termina cuestionando sus prejuicios.,1957,"https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",Crime|Drama,4.5
+6,The Lord of the Rings: The Return of the King,Las fuerzas de la Tierra Media resisten a Sauron mientras Frodo y Sam se acercan al destino del Anillo.,2003,"https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",Action|Adventure|Drama,4.5
+7,Pulp Fiction,"Varias historias criminales de Los Ángeles se cruzan entre conversaciones inesperadas, delitos y decisiones fatales.",1994,"https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg",Crime|Drama,4.5
+8,Schindler's List,Un empresario alemán modifica su postura frente al régimen nazi e intenta proteger a sus trabajadores judíos.,1993,"https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",Biography|Drama|History,4.5
+9,Inception,Un especialista en infiltrarse en los sueños recibe el encargo de implantar una idea en la mente de un empresario.,2010,"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",Action|Adventure|Sci-Fi,4.4
+10,Fight Club,Un oficinista insomne se une a un fabricante de jabón y participa en un club clandestino de peleas.,1999,"https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",Drama,4.4
+11,The Lord of the Rings: The Fellowship of the Ring,Un hobbit inicia un viaje para destruir un anillo que amenaza a la Tierra Media.,2001,,Action|Adventure|Drama,4.2
+12,The Lord of the Rings: The Two Towers,La comunidad separada lucha contra las fuerzas de Sauron y Saruman.,2002,,Action|Adventure|Drama,4.6
+13,The Matrix,Un informático descubre que la realidad que conoce es una simulación.,1999,,Action|Sci-Fi,3.9
+14,Goodfellas,Un joven se introduce en el crimen organizado y conoce el precio del poder.,1990,,Biography|Crime|Drama,2.5
+15,Star Wars: Episode V - The Empire Strikes Back,Los rebeldes huyen del Imperio mientras Luke aprende a usar la Fuerza.,1980,,Action|Adventure|Fantasy,4.4
+16,One Flew Over the Cuckoo's Nest,Un paciente desafía las normas de una institución psiquiátrica.,1975,,Drama,2.3
+17,Parasite,Una familia pobre se infiltra poco a poco en el hogar de una familia adinerada.,2019,,Comedy|Drama|Thriller,4.5
+18,Interstellar,Un equipo de astronautas busca un nuevo mundo habitable para la humanidad.,2014,,Adventure|Drama|Sci-Fi,3.1
+19,City of God,Dos jóvenes toman caminos opuestos en una favela de Río de Janeiro.,2002,,Crime|Drama,2.5
+20,Spirited Away,Una niña entra en un mundo de espíritus y busca rescatar a sus padres.,2001,,Animation|Adventure|Family,3.9
+21,Saving Private Ryan,Un pelotón recibe la misión de localizar a un soldado durante la Segunda Guerra Mundial.,1998,,Drama|War,2.2
+22,The Green Mile,Un guardia de prisiones conoce a un condenado con poderes extraordinarios.,1999,,Crime|Drama|Fantasy,3.2
+23,Life Is Beautiful,Un padre recurre a la imaginación para proteger a su hijo del horror nazi.,1997,,Comedy|Drama|Romance,2.8
+24,Se7en,Dos investigadores persiguen a un asesino que recrea los siete pecados capitales.,1995,,Crime|Drama|Mystery,2.3
+25,The Silence of the Lambs,Una agente del FBI consulta a un asesino encarcelado para detener a otro criminal.,1991,,Crime|Drama|Thriller,4.3
+26,Star Wars: Episode IV - A New Hope,Un granjero se une a la rebelión contra un imperio galáctico.,1977,,Action|Adventure|Fantasy,2.8
+27,Seven Samurai,Una aldea contrata a siete samuráis para defenderse de los bandidos.,1954,,Action|Adventure|Drama,3.4
+28,It's a Wonderful Life,Un hombre comprende el impacto que ha tenido su vida en los demás.,1946,,Drama|Family|Fantasy,2.9
+29,Joker,Un cómico marginado inicia una espiral de violencia en Gotham.,2019,,Crime|Drama|Thriller,4.8
+30,Whiplash,Un joven batería se somete a las exigencias de un profesor implacable.,2014,,Drama|Music,4.2
+31,The Intouchables,Un aristócrata con discapacidad establece una amistad con su nuevo cuidador.,2011,,Biography|Comedy|Drama,2.1
+32,The Prestige,Dos ilusionistas rivales llevan su competencia hasta extremos peligrosos.,2006,,Drama|Mystery|Sci-Fi,4.4
+33,The Departed,Un policía infiltrado y un topo criminal tratan de descubrirse mutuamente.,2006,,Crime|Drama|Thriller,4.2
+34,The Pianist,Un pianista judío intenta sobrevivir a la ocupación nazi de Varsovia.,2002,,Biography|Drama|Music,4.8
+35,Gladiator,Un general romano busca venganza tras perder a su familia y su posición.,2000,,Action|Adventure|Drama,2.6
+36,American History X,Un exneonazi intenta alejar a su hermano menor del extremismo.,1998,,Drama,4.6
+37,The Usual Suspects,Un superviviente relata una conspiración criminal llena de engaños.,1995,,Crime|Mystery|Thriller,3.4
+38,Léon: The Professional,Un asesino a sueldo protege a una niña tras el asesinato de su familia.,1994,,Action|Crime|Drama,2.3
+39,The Lion King,Un joven león debe afrontar la muerte de su padre y reclamar su reino.,1994,,Animation|Adventure|Drama,3.8
+40,Terminator 2: Judgment Day,Un robot protege al futuro líder de la resistencia humana.,1991,,Action|Sci-Fi,4.3
+41,Cinema Paradiso,Un cineasta recuerda su infancia y su amistad con el proyeccionista del pueblo.,1988,,Drama|Romance,3.2
+42,Grave of the Fireflies,Dos hermanos luchan por sobrevivir en Japón durante la guerra.,1988,,Animation|Drama|War,3.1
+43,Back to the Future,Un adolescente viaja al pasado en un coche inventado por un científico.,1985,,Adventure|Comedy|Sci-Fi,4.6
+44,Raiders of the Lost Ark,Un arqueólogo compite con los nazis por recuperar un objeto sagrado.,1981,,Action|Adventure,3.9
+45,Apocalypse Now,Un capitán recibe una misión secreta en plena guerra de Vietnam.,1979,,Drama|Mystery|War,3.2
+46,Alien,La tripulación de una nave es atacada por una criatura extraterrestre.,1979,,Horror|Sci-Fi,4.1
+47,Star Wars: Episode VI - Return of the Jedi,Los rebeldes intentan derrotar al Imperio y liberar a Darth Vader.,1983,,Action|Adventure|Fantasy,3.6
+48,The Shining,Un escritor aislado en un hotel sucumbe a una presencia aterradora.,1980,,Drama|Horror,4.4
+49,Psycho,Una viajera desaparece tras hospedarse en un motel apartado.,1960,,Horror|Mystery|Thriller,3.5
+50,Rear Window,Un fotógrafo inmovilizado sospecha que ha presenciado un asesinato.,1954,,Mystery|Thriller,2.9
+51,Vertigo,Un antiguo detective obsesionado con una mujer descubre una trama inquietante.,1958,,Mystery|Romance|Thriller,2.4
+52,North by Northwest,Un publicista confundido con un espía huye de una conspiración.,1959,,Action|Adventure|Mystery,3.0
+53,Casablanca,Un expatriado debe elegir entre el amor y ayudar a la resistencia.,1942,,Drama|Romance|War,3.1
+54,Citizen Kane,Un periodista investiga el significado de la última palabra de un magnate.,1941,,Drama|Mystery,4.0
+55,Modern Times,Un obrero intenta adaptarse a una sociedad industrial mecanizada.,1936,,Comedy|Drama,4.0
+56,City Lights,Un vagabundo se enamora de una florista ciega.,1931,,Comedy|Drama|Romance,2.8
+57,The Great Dictator,Un barbero judío es confundido con un dictador.,1940,,Comedy|Drama|War,4.3
+58,The Kid,Un vagabundo cuida a un niño abandonado mientras intentan salir adelante.,1921,,Comedy|Drama|Family,4.5
+59,Metropolis,En una ciudad futurista estalla el conflicto entre trabajadores y élites.,1927,,Drama|Sci-Fi,3.8
+60,M,Una ciudad vive aterrorizada por un asesino de niños.,1931,,Crime|Mystery|Thriller,3.5
+61,Double Indemnity,Un vendedor de seguros planea un asesinato con una mujer casada.,1944,,Crime|Drama|Film-Noir,3.6
+62,Sunset Boulevard,Un guionista se involucra con una estrella del cine mudo en decadencia.,1950,,Drama|Film-Noir,2.9
+63,Some Like It Hot,Dos músicos testigos de un crimen se hacen pasar por mujeres para escapar.,1959,,Comedy|Music|Romance,2.5
+64,The Apartment,Un empleado presta su apartamento a sus superiores para ascender.,1960,,Comedy|Drama|Romance,3.8
+65,Dr. Strangelove,Un error militar amenaza con desencadenar una guerra nuclear.,1964,,Comedy|War,4.6
+66,2001: A Space Odyssey,Una misión espacial investiga un misterioso monolito.,1968,,Adventure|Sci-Fi,3.3
+67,A Clockwork Orange,Un joven violento es sometido a un controvertido tratamiento conductual.,1971,,Crime|Sci-Fi,4.0
+68,Barry Lyndon,Un aventurero irlandés asciende socialmente en la Europa del siglo XVIII.,1975,,Adventure|Drama|War,3.8
+69,Full Metal Jacket,Un grupo de marines atraviesa el entrenamiento y el combate en Vietnam.,1987,,Drama|War,2.5
+70,Paths of Glory,Un coronel defiende a soldados acusados de cobardía tras una operación fallida.,1957,,Drama|War,3.2
+71,The Killing,Un delincuente planifica un robo complejo en un hipódromo.,1956,,Crime|Drama|Film-Noir,4.1
+72,Chinatown,Un detective privado descubre corrupción y secretos familiares en Los Ángeles.,1974,,Drama|Mystery|Thriller,2.4
+73,Taxi Driver,Un conductor de taxi aislado se obsesiona con la decadencia de Nueva York.,1976,,Crime|Drama,2.8
+74,Raging Bull,La autodestrucción de un boxeador deteriora sus relaciones personales.,1980,,Biography|Drama|Sport,2.4
+75,The King of Comedy,Un aspirante a cómico se obsesiona con alcanzar la fama televisiva.,1982,,Comedy|Crime|Drama,4.8
+76,Casino,El mundo de los casinos de Las Vegas se cruza con el crimen organizado.,1995,,Crime|Drama,3.5
+77,The Wolf of Wall Street,Un corredor de bolsa se enriquece mediante excesos y fraude financiero.,2013,,Biography|Comedy|Crime,3.0
+78,Shutter Island,Dos agentes investigan la desaparición de una paciente en una isla.,2010,,Mystery|Thriller,4.1
+79,The Irishman,Un veterano del crimen recuerda su participación en hechos históricos.,2019,,Biography|Crime|Drama,3.8
+80,Killers of the Flower Moon,Una serie de asesinatos golpea a la nación osage durante el auge petrolero.,2023,,Crime|Drama|History,2.7
+81,The Aviator,La vida de Howard Hughes combina éxitos industriales y problemas personales.,2004,,Biography|Drama,4.5
+82,Gangs of New York,En el Nueva York del siglo XIX se enfrentan bandas rivales.,2002,,Crime|Drama,3.0
+83,The Last Temptation of Christ,Una visión novelada de los dilemas humanos de Jesús.,1988,,Drama,2.5
+84,Mean Streets,Un joven trata de conciliar fe y delincuencia en Little Italy.,1973,,Crime|Drama|Thriller,3.6
+85,The Truman Show,Un hombre sospecha que toda su vida es un programa de televisión.,1998,,Comedy|Drama|Sci-Fi,2.9
+86,Eternal Sunshine of the Spotless Mind,Una pareja intenta borrar sus recuerdos tras una ruptura.,2004,,Drama|Romance|Sci-Fi,2.6
+87,The Grand Budapest Hotel,Un conserje y su aprendiz se ven envueltos en una herencia y un robo.,2014,,Adventure|Comedy|Crime,3.8
+88,Moonrise Kingdom,Dos adolescentes escapan juntos de su comunidad isleña.,2012,,Adventure|Comedy|Drama,3.2
+89,Fantastic Mr. Fox,Un zorro intenta eludir a los granjeros que amenazan a su familia.,2009,,Animation|Adventure|Comedy,2.1
+90,Isle of Dogs,Un niño viaja a una isla de perros exiliados para recuperar a su mascota.,2018,,Animation|Adventure|Comedy,4.4
+91,The Royal Tenenbaums,Una familia de antiguos niños prodigio vuelve a reunirse.,2001,,Comedy|Drama,2.2
+92,The Darjeeling Limited,Tres hermanos viajan por la India tratando de reconciliarse.,2007,,Adventure|Comedy|Drama,2.3
+93,Asteroid City,Una convención juvenil se interrumpe por un acontecimiento extraordinario.,2023,,Comedy|Drama|Romance,3.0
+94,The French Dispatch,Una revista ficticia reúne historias de una ciudad francesa.,2021,,Comedy|Drama|Romance,3.1
+95,The Life Aquatic with Steve Zissou,Un oceanógrafo busca vengarse de una criatura marina.,2004,,Adventure|Comedy|Drama,2.7
+96,Rushmore,Un estudiante excéntrico compite por el afecto de una profesora.,1998,,Comedy|Drama|Romance,2.6
+97,The Social Network,La creación de Facebook desata conflictos entre socios y amigos.,2010,,Biography|Drama,2.6
+98,Gone Girl,La desaparición de una mujer provoca sospechas sobre su marido.,2014,,Drama|Mystery|Thriller,2.7
+99,Zodiac,Periodistas e investigadores siguen el rastro de un asesino en serie.,2007,,Crime|Drama|Mystery,3.2
+100,The Curious Case of Benjamin Button,Un hombre envejece al revés mientras atraviesa el siglo XX.,2008,,Drama|Fantasy|Romance,2.8
+101,The Girl with the Dragon Tattoo,Un periodista y una hacker investigan la desaparición de una joven.,2011,,Crime|Drama|Mystery,3.8
+102,The Game,Un financiero participa en un juego que invade su vida real.,1997,,Drama|Mystery|Thriller,2.8
+103,Panic Room,Una madre y su hija se refugian de unos ladrones en una habitación blindada.,2002,,Crime|Drama|Thriller,4.4
+104,The Killer,Un asesino profesional emprende una persecución tras un encargo fallido.,2023,,Action|Crime|Thriller,3.0
+105,The Batman,Batman sigue las pistas de un criminal que ataca a las élites de Gotham.,2022,,Action|Crime|Drama,3.0
+106,Batman Begins,Bruce Wayne regresa a Gotham y adopta la identidad de Batman.,2005,,Action|Crime|Drama,4.3
+107,The Dark Knight Rises,Batman reaparece para enfrentarse a una nueva amenaza contra Gotham.,2012,,Action|Drama|Thriller,3.3
+108,Tenet,Un agente participa en una operación donde el tiempo puede invertirse.,2020,,Action|Sci-Fi|Thriller,3.7
+109,Dunkirk,Soldados aliados tratan de escapar de las playas de Dunkerque.,2017,,Action|Drama|History,3.6
+110,Oppenheimer,La vida del físico que dirigió el desarrollo de la primera bomba atómica.,2023,,Biography|Drama|History,3.1
+111,Memento,Un hombre sin memoria a corto plazo intenta identificar al asesino de su esposa.,2000,,Mystery|Thriller,3.7
+112,Insomnia,Un detective investiga un crimen en Alaska mientras sufre insomnio.,2002,,Drama|Mystery|Thriller,3.6
+113,Following,Un joven que sigue a desconocidos se adentra en una trama criminal.,1998,,Crime|Mystery|Thriller,2.3
+114,The Martian,Un astronauta abandonado en Marte utiliza la ciencia para sobrevivir.,2015,,Adventure|Drama|Sci-Fi,3.2
+115,Gravity,Dos astronautas intentan regresar a la Tierra tras un accidente en órbita.,2013,,Drama|Sci-Fi|Thriller,3.5
+116,Arrival,Una lingüista busca comunicarse con visitantes extraterrestres.,2016,,Drama|Mystery|Sci-Fi,2.2
+117,Blade Runner,Un agente persigue a androides fugitivos en un futuro distópico.,1982,,Action|Drama|Sci-Fi,2.9
+118,Blade Runner 2049,Un replicante descubre un secreto que pone en cuestión el orden social.,2017,,Action|Drama|Mystery,2.3
+119,Dune,Un joven heredero afronta una lucha de poder por un planeta desértico.,2021,,Action|Adventure|Drama,3.0
+120,Dune: Part Two,Paul Atreides se une a los fremen para enfrentarse a las casas dominantes.,2024,,Action|Adventure|Drama,2.9
+121,Sicario,Una agente federal se une a una operación contra el narcotráfico.,2015,,Action|Crime|Drama,3.7
+122,Prisoners,Un padre emprende su propia búsqueda de dos niñas desaparecidas.,2013,,Crime|Drama|Mystery,3.6
+123,Enemy,Un profesor descubre a un hombre físicamente idéntico a él.,2013,,Drama|Mystery|Thriller,2.9
+124,Incendies,Dos hermanos investigan los secretos familiares de su madre.,2010,,Drama|Mystery|War,2.3
+125,Ex Machina,Un programador examina a una inteligencia artificial humanoide.,2014,,Drama|Sci-Fi|Thriller,4.9
+126,Annihilation,Un equipo científico explora una zona donde la naturaleza ha mutado.,2018,,Adventure|Drama|Horror,2.1
+127,Her,Un hombre solitario se enamora de un sistema operativo inteligente.,2013,,Drama|Romance|Sci-Fi,4.0
+128,Children of Men,En un mundo sin nacimientos un hombre protege a una mujer embarazada.,2006,,Action|Drama|Sci-Fi,3.5
+129,District 9,Un funcionario queda implicado en la segregación de extraterrestres.,2009,,Action|Sci-Fi|Thriller,4.0
+130,Edge of Tomorrow,Un soldado revive continuamente el mismo combate contra invasores.,2014,,Action|Adventure|Sci-Fi,2.3
+131,Minority Report,Un agente de policía predictiva es acusado de un crimen futuro.,2002,,Action|Crime|Mystery,4.7
+132,A.I. Artificial Intelligence,Un niño robot busca que su madre humana lo ame.,2001,,Drama|Sci-Fi,3.3
+133,Ready Player One,Un adolescente compite en un universo virtual por una fortuna.,2018,,Action|Adventure|Sci-Fi,4.2
+134,E.T. the Extra-Terrestrial,Un niño ayuda a un extraterrestre perdido a regresar a su hogar.,1982,,Adventure|Family|Sci-Fi,4.3
+135,Jurassic Park,Un parque con dinosaurios clonados pierde el control de sus criaturas.,1993,,Action|Adventure|Sci-Fi,4.7
+136,The Lost World: Jurassic Park,Una expedición visita una isla habitada por dinosaurios salvajes.,1997,,Action|Adventure|Sci-Fi,2.3
+137,Jaws,Un jefe de policía intenta detener los ataques de un tiburón.,1975,,Adventure|Thriller,3.9
+138,Close Encounters of the Third Kind,Un hombre vive una experiencia que lo conecta con visitantes extraterrestres.,1977,,Drama|Sci-Fi,3.1
+139,Catch Me If You Can,Un joven estafador engaña a bancos y autoridades con identidades falsas.,2002,,Biography|Crime|Drama,4.4
+140,The Terminal,Un extranjero queda atrapado durante meses en un aeropuerto.,2004,,Comedy|Drama|Romance,4.7
+141,The Fabelmans,Un adolescente descubre su pasión por el cine mientras cambia su familia.,2022,,Drama,4.7
+142,Lincoln,El presidente estadounidense busca abolir la esclavitud durante la guerra civil.,2012,,Biography|Drama|History,4.8
+143,Bridge of Spies,Un abogado negocia un intercambio de prisioneros en la Guerra Fría.,2015,,Drama|History|Thriller,2.8
+144,War of the Worlds,Un padre protege a sus hijos de una invasión alienígena.,2005,,Action|Adventure|Sci-Fi,4.2
+145,The Color Purple,Una mujer afroamericana lucha por construir su independencia.,1985,,Drama,4.3
+146,Empire of the Sun,Un niño británico sobrevive en Shanghái durante la Segunda Guerra Mundial.,1987,,Drama|War,3.6
+147,Amistad,Un juicio decide el destino de africanos esclavizados tras un motín.,1997,,Drama|History,2.4
+148,The Post,Una editora decide publicar documentos secretos sobre Vietnam.,2017,,Drama|History|Thriller,4.7
+149,West Side Story,Dos jóvenes enamorados quedan atrapados entre bandas rivales de Nueva York.,2021,,Crime|Drama|Musical,2.8
+150,Indiana Jones and the Temple of Doom,Un aventurero descubre un culto peligroso en la India.,1984,,Action|Adventure,4.5
+151,Indiana Jones and the Last Crusade,Indiana Jones busca el Santo Grial junto a su padre.,1989,,Action|Adventure,3.3
+152,Indiana Jones and the Kingdom of the Crystal Skull,El arqueólogo persigue un artefacto misterioso en plena Guerra Fría.,2008,,Action|Adventure,4.5
+153,Indiana Jones and the Dial of Destiny,Indiana Jones emprende una última aventura tras un dispositivo antiguo.,2023,,Action|Adventure,4.9
+154,Harry Potter and the Sorcerer's Stone,Un niño descubre que es mago y empieza sus estudios en Hogwarts.,2001,,Adventure|Family|Fantasy,3.8
+155,Harry Potter and the Chamber of Secrets,Un misterio amenaza a los estudiantes de Hogwarts.,2002,,Adventure|Family|Fantasy,3.0
+156,Harry Potter and the Prisoner of Azkaban,Harry conoce secretos sobre el pasado de sus padres y un prisionero fugado.,2004,,Adventure|Family|Fantasy,3.7
+157,Harry Potter and the Goblet of Fire,Harry participa en un torneo mágico de alto riesgo.,2005,,Adventure|Family|Fantasy,4.2
+158,Harry Potter and the Order of the Phoenix,Harry organiza un grupo para defenderse de Voldemort.,2007,,Action|Adventure|Family,2.7
+159,Harry Potter and the Half-Blood Prince,Harry descubre pistas decisivas sobre la inmortalidad de Voldemort.,2009,,Action|Adventure|Family,2.9
+160,Harry Potter and the Deathly Hallows: Part 1,Los jóvenes magos buscan los objetos que mantienen con vida a Voldemort.,2010,,Adventure|Family|Fantasy,2.9
+161,Harry Potter and the Deathly Hallows: Part 2,Hogwarts se convierte en el escenario del enfrentamiento final.,2011,,Adventure|Family|Fantasy,3.1
+162,Fantastic Beasts and Where to Find Them,Un magizoólogo llega a Nueva York con criaturas mágicas.,2016,,Adventure|Family|Fantasy,3.9
+163,Fantastic Beasts: The Crimes of Grindelwald,Los magos intentan detener la expansión de un líder radical.,2018,,Adventure|Family|Fantasy,3.7
+164,Fantastic Beasts: The Secrets of Dumbledore,Dumbledore reúne aliados para enfrentarse a Grindelwald.,2022,,Adventure|Family|Fantasy,4.1
+165,The Hobbit: An Unexpected Journey,Bilbo Bolson parte en una expedición para recuperar un reino enano.,2012,,Adventure|Fantasy,2.7
+166,The Hobbit: The Desolation of Smaug,La compañía de enanos se acerca a la Montaña Solitaria.,2013,,Adventure|Fantasy,2.8
+167,The Hobbit: The Battle of the Five Armies,El tesoro de la montaña provoca una gran guerra en la Tierra Media.,2014,,Adventure|Fantasy,3.1
+168,The Chronicles of Narnia: The Lion the Witch and the Wardrobe,Cuatro hermanos descubren un reino sometido al invierno eterno.,2005,,Adventure|Family|Fantasy,4.8
+169,The Chronicles of Narnia: Prince Caspian,Los hermanos regresan a Narnia y ayudan a un príncipe destronado.,2008,,Action|Adventure|Family,2.3
+170,The Chronicles of Narnia: The Voyage of the Dawn Treader,Un grupo navega por mares fantásticos en busca de antiguos aliados.,2010,,Adventure|Family|Fantasy,2.5
+171,The Princess Bride,Un joven intenta rescatar a su amada en un cuento de aventuras.,1987,,Adventure|Comedy|Family,4.6
+172,Willow,Un aprendiz de mago protege a una niña destinada a cambiar un reino.,1988,,Action|Adventure|Drama,2.3
+173,Labyrinth,Una adolescente busca a su hermano en un laberinto mágico.,1986,,Adventure|Family|Fantasy,2.4
+174,The NeverEnding Story,Un niño descubre un mundo fantástico dentro de un libro.,1984,,Adventure|Drama|Family,4.0
+175,Pan's Labyrinth,Una niña encuentra un universo mítico en la España de posguerra.,2006,,Drama|Fantasy|War,4.5
+176,The Shape of Water,Una limpiadora entabla una relación con una criatura acuática cautiva.,2017,,Drama|Fantasy|Romance,4.0
+177,Crimson Peak,Una heredera descubre secretos siniestros en una mansión inglesa.,2015,,Drama|Horror|Mystery,3.1
+178,Hellboy,Un demonio criado por humanos lucha contra amenazas sobrenaturales.,2004,,Action|Adventure|Fantasy,4.1
+179,Hellboy II: The Golden Army,Hellboy intenta impedir una guerra entre humanos y criaturas mágicas.,2008,,Action|Adventure|Fantasy,4.2
+180,Pacific Rim,La humanidad construye robots gigantes para combatir monstruos marinos.,2013,,Action|Adventure|Sci-Fi,4.8
+181,Godzilla,Una criatura gigantesca emerge mientras otras amenazas arrasan ciudades.,2014,,Action|Adventure|Sci-Fi,3.5
+182,Godzilla: King of the Monsters,Monstruos ancestrales se enfrentan por el dominio del planeta.,2019,,Action|Adventure|Fantasy,3.3
+183,Godzilla vs. Kong,Dos criaturas colosales chocan mientras una organización investiga su origen.,2021,,Action|Sci-Fi|Thriller,4.5
+184,King Kong,Una expedición cinematográfica encuentra un simio gigantesco en una isla.,2005,,Action|Adventure|Drama,4.5
+185,Avatar,Un soldado llega a Pandora y se vincula con sus habitantes.,2009,,Action|Adventure|Fantasy,2.5
+186,Avatar: The Way of Water,Una familia na'vi busca refugio entre los clanes marinos de Pandora.,2022,,Action|Adventure|Fantasy,4.1
+187,Titanic,Dos jóvenes de distintas clases sociales se enamoran a bordo del Titanic.,1997,,Drama|Romance,2.0
+188,The Terminator,Un robot asesino viaja al pasado para cambiar el futuro.,1984,,Action|Sci-Fi,2.1
+189,Aliens,Una superviviente regresa al planeta donde encontró una criatura letal.,1986,,Action|Adventure|Sci-Fi,3.4
+190,The Abyss,Una tripulación submarina descubre una presencia desconocida en las profundidades.,1989,,Adventure|Drama|Mystery,2.4
+191,True Lies,Un espía intenta ocultar su profesión a su familia.,1994,,Action|Comedy|Thriller,3.0
+192,The Last Samurai,Un militar occidental aprende las costumbres de los samuráis japoneses.,2003,,Action|Drama,3.6
+193,Top Gun,Un piloto naval compite por destacar en una escuela de élite.,1986,,Action|Drama,2.1
+194,Top Gun: Maverick,Un veterano piloto entrena a una nueva generación para una misión peligrosa.,2022,,Action|Drama,2.1
+195,Mission: Impossible,Un agente acusado de traición busca descubrir al verdadero infiltrado.,1996,,Action|Adventure|Thriller,2.7
+196,Mission: Impossible 2,Un agente secreto se enfrenta a un virus mortal y a un antiguo compañero.,2000,,Action|Adventure|Thriller,2.5
+197,Mission: Impossible III,Ethan Hunt vuelve al servicio para detener a un traficante de armas.,2006,,Action|Adventure|Thriller,4.2
+198,Mission: Impossible - Ghost Protocol,Un equipo desacreditado intenta impedir un ataque nuclear.,2011,,Action|Adventure|Thriller,4.1
+199,Mission: Impossible - Rogue Nation,Una unidad secreta investiga una organización de agentes renegados.,2015,,Action|Adventure|Thriller,3.9
+200,Mission: Impossible - Fallout,Ethan Hunt intenta recuperar material nuclear perdido.,2018,,Action|Adventure|Thriller,4.8
+201,Mission: Impossible - Dead Reckoning Part One,El equipo persigue una tecnología capaz de amenazar la seguridad mundial.,2023,,Action|Adventure|Thriller,3.2
+202,The Bourne Identity,Un hombre amnésico descubre que posee habilidades letales.,2002,,Action|Mystery|Thriller,2.8
+203,The Bourne Supremacy,Un exagente perseguido investiga su pasado tras un asesinato.,2004,,Action|Mystery|Thriller,3.1
+204,The Bourne Ultimatum,Jason Bourne trata de descubrir quién lo convirtió en asesino.,2007,,Action|Mystery|Thriller,4.3
+205,The Bourne Legacy,Un agente intenta sobrevivir al cierre de un programa encubierto.,2012,,Action|Adventure|Thriller,3.1
+206,Jason Bourne,Bourne regresa para conocer nuevos datos sobre su origen.,2016,,Action|Thriller,4.2
+207,Skyfall,James Bond protege a su jefa de un enemigo ligado al pasado.,2012,,Action|Adventure|Thriller,3.8
+208,Casino Royale,Bond participa en un torneo de póquer para detener una red financiera criminal.,2006,,Action|Adventure|Thriller,4.3
+209,Quantum of Solace,Bond investiga una organización clandestina tras una traición.,2008,,Action|Adventure|Mystery,4.0
+210,Spectre,Bond descubre vínculos entre distintas amenazas de su pasado.,2015,,Action|Adventure|Thriller,2.3
+211,No Time to Die,Bond abandona su retiro para afrontar una amenaza biotecnológica.,2021,,Action|Adventure|Thriller,2.4
+212,GoldenEye,Bond se enfrenta a un antiguo aliado que controla un arma espacial.,1995,,Action|Adventure|Thriller,3.9
+213,Tomorrow Never Dies,Un magnate de los medios pretende provocar una guerra para aumentar su poder.,1997,,Action|Adventure|Thriller,4.0
+214,The World Is Not Enough,Bond protege a una heredera involucrada en un conflicto por el petróleo.,1999,,Action|Adventure|Thriller,3.1
+215,Die Another Day,Bond investiga una conspiración que conecta a Corea y la alta sociedad.,2002,,Action|Adventure|Thriller,3.7
+216,Goldfinger,Bond descubre un plan contra las reservas de oro estadounidenses.,1964,,Action|Adventure|Thriller,3.0
+217,From Russia with Love,Bond cae en una operación diseñada por una organización criminal.,1963,,Action|Adventure|Thriller,3.6
+218,Dr. No,Bond investiga desapariciones vinculadas a una instalación secreta.,1962,,Action|Adventure|Thriller,4.7
+219,Thunderball,Bond persigue a una organización que ha robado armas nucleares.,1965,,Action|Adventure|Thriller,4.5
+220,You Only Live Twice,Bond viaja a Japón tras una serie de desapariciones espaciales.,1967,,Action|Adventure|Thriller,3.4
+221,On Her Majesty's Secret Service,Bond intenta impedir un proyecto de guerra biológica.,1969,,Action|Adventure|Thriller,4.8
+222,The Spy Who Loved Me,Bond coopera con una agente soviética para detener un plan de destrucción.,1977,,Action|Adventure|Thriller,4.1
+223,Moonraker,Bond descubre un complot que lo lleva hasta el espacio.,1979,,Action|Adventure|Sci-Fi,3.9
+224,For Your Eyes Only,Bond busca un dispositivo militar desaparecido.,1981,,Action|Adventure|Thriller,4.5
+225,Octopussy,Bond investiga una operación criminal relacionada con joyas y armas.,1983,,Action|Adventure|Thriller,2.2
+226,A View to a Kill,Bond intenta impedir la destrucción de Silicon Valley.,1985,,Action|Adventure|Thriller,2.5
+227,The Living Daylights,Bond queda atrapado en una conspiración entre traficantes y espías.,1987,,Action|Adventure|Thriller,2.1
+228,Licence to Kill,Bond busca venganza contra un narcotraficante.,1989,,Action|Adventure|Thriller,3.3
+229,The Rock,Un equipo intenta impedir un ataque químico desde una prisión insular.,1996,,Action|Adventure|Thriller,4.4
+230,Con Air,Un exsoldado queda atrapado en un avión tomado por presos peligrosos.,1997,,Action|Crime|Thriller,2.8
+231,Face/Off,Un agente y un terrorista intercambian rostros mediante cirugía.,1997,,Action|Crime|Sci-Fi,2.2
+232,Speed,Un policía intenta salvar un autobús que explotará si reduce la velocidad.,1994,,Action|Adventure|Thriller,4.0
+233,Point Break,Un agente encubierto investiga a una banda de surfistas atracadores.,1991,,Action|Crime|Thriller,3.1
+234,Heat,Un detective y un experto ladrón mantienen un pulso en Los Ángeles.,1995,,Action|Crime|Drama,3.1
+235,Collateral,Un taxista se ve obligado a conducir a un asesino durante una noche.,2004,,Action|Crime|Drama,2.2
+236,Miami Vice,Dos detectives infiltrados investigan una red internacional de narcotráfico.,2006,,Action|Crime|Drama,2.8
+237,Thief,Un ladrón profesional busca abandonar la delincuencia.,1981,,Action|Crime|Drama,4.1
+238,The Insider,Un científico denuncia prácticas de la industria tabacalera.,1999,,Biography|Drama|Thriller,3.2
+239,Public Enemies,Un agente federal persigue al atracador John Dillinger.,2009,,Biography|Crime|Drama,4.5
+240,Blackhat,Un informático condenado ayuda a localizar a ciberdelincuentes.,2015,,Action|Crime|Thriller,4.3
+241,The Last of the Mohicans,Un hombre criado por indígenas queda atrapado en una guerra colonial.,1992,,Action|Adventure|Drama,3.7
+242,The Revenant,Un explorador abandonado lucha por sobrevivir y volver a casa.,2015,,Action|Adventure|Drama,2.8
+243,The Hateful Eight,Un grupo de viajeros queda aislado por una tormenta y las sospechas.,2015,,Crime|Drama|Mystery,3.9
+244,Django Unchained,Un esclavo liberado busca rescatar a su esposa.,2012,,Drama|Western,2.9
+245,Inglourious Basterds,Un grupo de soldados organiza ataques contra los nazis en Francia.,2009,,Adventure|Drama|War,3.4
+246,Once Upon a Time in Hollywood,Un actor y su doble enfrentan los cambios del Hollywood de 1969.,2019,,Comedy|Drama,4.4
+247,Kill Bill: Vol. 1,Una antigua asesina emprende una campaña de venganza.,2003,,Action|Crime|Thriller,4.3
+248,Kill Bill: Vol. 2,La protagonista continúa su búsqueda de los responsables de su traición.,2004,,Action|Crime|Thriller,4.4
+249,Reservoir Dogs,Un atraco fallido desata sospechas entre un grupo de delincuentes.,1992,,Crime|Drama|Thriller,4.7
+250,Jackie Brown,Una azafata planea engañar tanto a delincuentes como a policías.,1997,,Crime|Drama|Thriller,4.4
+251,Death Proof,Un conductor utiliza su coche para atacar a jóvenes mujeres.,2007,,Action|Thriller,2.7
+252,Once Upon a Time in America,Un antiguo gánster recuerda décadas de amistad y traición.,1984,,Crime|Drama,3.8
+253,A Fistful of Dollars,Un pistolero enfrenta entre sí a dos familias rivales.,1964,,Action|Drama|Western,3.8
+254,For a Few Dollars More,Dos cazarrecompensas persiguen a un criminal peligroso.,1965,,Western,4.4
+255,"The Good, the Bad and the Ugly",Tres hombres compiten por encontrar un tesoro durante la Guerra Civil estadounidense.,1966,,Adventure|Western,3.9
+256,Once Upon a Time in the West,Una viuda y varios pistoleros se enfrentan por tierras estratégicas.,1968,,Western,4.6
+257,Duck You Sucker,Un bandido mexicano y un revolucionario irlandés participan en una rebelión.,1971,,Drama|War|Western,2.6
+258,The Searchers,Un veterano emprende una larga búsqueda para rescatar a su sobrina.,1956,,Adventure|Drama|Western,3.6
+259,High Noon,Un sheriff debe afrontar casi solo la llegada de un antiguo enemigo.,1952,,Drama|Thriller|Western,4.3
+260,Shane,Un pistolero intenta empezar de nuevo junto a una familia campesina.,1953,,Drama|Western,3.8
+261,Unforgiven,Un antiguo asesino acepta un último encargo a cambio de dinero.,1992,,Drama|Western,2.5
+262,Gran Torino,Un veterano de guerra establece una relación con sus vecinos inmigrantes.,2008,,Drama,2.2
+263,Million Dollar Baby,Un entrenador de boxeo prepara a una mujer que aspira a competir.,2004,,Drama|Sport,4.4
+264,Mystic River,Un asesinato reabre traumas entre tres amigos de la infancia.,2003,,Crime|Drama|Mystery,4.6
+265,Changeling,Una madre denuncia a la policía tras la desaparición de su hijo.,2008,,Biography|Crime|Drama,3.5
+266,Letters from Iwo Jima,Soldados japoneses defienden una isla durante la Segunda Guerra Mundial.,2006,,Action|Adventure|Drama,2.9
+267,Flags of Our Fathers,La imagen de unos marines se convierte en símbolo de propaganda bélica.,2006,,Action|Adventure|Drama,3.0
+268,American Sniper,Un francotirador militar afronta la guerra y sus secuelas familiares.,2014,,Action|Biography|Drama,2.5
+269,Richard Jewell,Un vigilante convertido en héroe pasa a ser sospechoso de terrorismo.,2019,,Biography|Crime|Drama,2.1
+270,Sully,Un piloto aterriza en un río y debe defender sus decisiones.,2016,,Biography|Drama,2.1
+271,Invictus,Nelson Mandela impulsa la unidad sudafricana a través del rugby.,2009,,Biography|Drama|History,3.8
+272,J. Edgar,La vida del director del FBI revela secretos y conflictos institucionales.,2011,,Biography|Drama|Romance,3.1
+273,Space Cowboys,Un grupo de veteranos astronautas recibe una misión inesperada.,2000,,Action|Adventure|Thriller,4.8
+274,The Bridges of Madison County,Una ama de casa vive un romance que cuestiona sus decisiones.,1995,,Drama|Romance,2.3
+275,A Perfect World,Un fugitivo secuestra a un niño y forma con él un vínculo inesperado.,1993,,Crime|Drama|Thriller,2.0
+276,Escape from Alcatraz,Un preso prepara una fuga de una prisión considerada infranqueable.,1979,,Action|Biography|Crime,2.6
+277,Dirty Harry,Un inspector persigue a un asesino que desafía a la policía.,1971,,Action|Crime|Thriller,4.7
+278,The French Connection,Dos detectives siguen una red de tráfico de heroína.,1971,,Action|Crime|Drama,3.3
+279,The Conversation,Un experto en escuchas sospecha que su trabajo pondrá vidas en peligro.,1974,,Drama|Mystery|Thriller,2.1
+280,The Godfather: Part III,Michael Corleone busca legitimar sus negocios y proteger a su familia.,1990,,Crime|Drama,4.3
+281,Bram Stoker's Dracula,Un conde vampiro viaja a Londres impulsado por una antigua obsesión.,1992,,Drama|Fantasy|Horror,2.7
+282,The Outsiders,Dos grupos de jóvenes rivales viven un conflicto que acaba en tragedia.,1983,,Crime|Drama,3.4
+283,Rumble Fish,Un adolescente conflictivo idealiza a su hermano mayor.,1983,,Crime|Drama|Romance,3.1
+284,The Rainmaker,Un joven abogado enfrenta a una gran aseguradora.,1997,,Crime|Drama|Thriller,4.4
+285,Apocalypse Now Redux,Versión ampliada de un viaje de un oficial por el río durante Vietnam.,2001,,Drama|Mystery|War,4.6
+286,The Graduate,Un recién graduado se involucra en una relación con una mujer casada.,1967,,Comedy|Drama|Romance,4.2
+287,Rain Man,Un comerciante descubre que tiene un hermano con habilidades excepcionales.,1988,,Drama,2.8
+288,Tootsie,Un actor desempleado se hace pasar por mujer para conseguir trabajo.,1982,,Comedy|Drama|Romance,4.4
+289,Kramer vs. Kramer,Una pareja separada pelea por la custodia de su hijo.,1979,,Drama,3.5
+290,Marathon Man,Un estudiante queda envuelto en una trama que lo conecta con criminales nazis.,1976,,Crime|Drama|Thriller,4.9
+291,All the President's Men,Dos periodistas investigan el escándalo Watergate.,1976,,Drama|History|Thriller,2.5
+292,Midnight Cowboy,Un joven llega a Nueva York buscando riqueza y encuentra amistad y pobreza.,1969,,Drama,2.3
+293,Papillon,Dos presos luchan por escapar de una colonia penal.,1973,,Biography|Crime|Drama,3.1
+294,The Deer Hunter,Tres amigos ven transformadas sus vidas por la guerra de Vietnam.,1978,,Drama|War,2.1
+295,Platoon,Un joven soldado descubre la brutalidad del combate en Vietnam.,1986,,Drama|War,2.5
+296,Born on the Fourth of July,Un veterano herido se convierte en activista contra la guerra.,1989,,Biography|Drama|War,2.7
+297,Wall Street,Un corredor de bolsa entra en el mundo de la especulación financiera.,1987,,Crime|Drama,3.7
+298,JFK,Un fiscal investiga las circunstancias del asesinato del presidente Kennedy.,1991,,Drama|History|Thriller,2.8
+299,Natural Born Killers,Una pareja criminal se convierte en fenómeno mediático.,1994,,Action|Crime|Drama,3.1
+300,Any Given Sunday,Un entrenador veterano intenta mantener unido a su equipo de fútbol americano.,1999,,Drama|Sport,4.7
