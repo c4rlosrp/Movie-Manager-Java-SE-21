@@ -1,9 +1,7 @@
 package es.movie_manager.data;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 /**
@@ -35,8 +33,38 @@ public class MovieManager {
 
     public List<Movie> getYearsMovies(int year){
         return catalogo.stream()
-                .
+                .filter((Movie m) -> m.getYear() == year)
+                .toList();
+    }
+    public List<Movie> getMovieWithId(){
+        return catalogo.stream()
+                .filter((Movie m) -> m.getId() == 1)
+                .toList();
     }
 
+    public int getSkipAndLongestTitle(int skip){
+        return catalogo.stream()
+                .skip(skip)
+                .mapToInt(m -> m.getTitle().length())
+                .max()
+                .orElse(0);
+    }
 
+    public boolean areLimitedMoviesAboveStars(int limit, double minStars){
+        return catalogo.stream()
+                .limit(limit)
+                .allMatch((Movie m) -> m.getStars() >= minStars);
+    }
+
+    public Map<String, Long> getMoviesByGenre(){
+        return catalogo.stream()
+                .flatMap(m -> Arrays.stream(m.getGenre()))
+                .collect(Collectors.groupingBy(g -> g, TreeMap::new, Collectors.counting()));
+    }
+
+    public Map<String, Double> getAverageStarsByGenre(){
+        return catalogo.stream()
+                .flatMap(m -> Arrays.stream(m.getGenre()).map(g -> Map.entry(g, m.getStars())))
+                .collect(Collectors.groupingBy(Map.Entry::getKey, Collectors.averagingDouble(Map.Entry::getValue)));
+    }
 }
